@@ -1,3 +1,7 @@
+<script lang="ts" setup>
+const loading = ref(false)
+</script>
+
 <template>
   <div>
     <!-- <h1>Hello Gumzh</h1> -->
@@ -5,10 +9,4 @@
   </div>
 </template>
 
-<script lang="ts" setup>
-
-</script>
-
-<style>
-
-</style>
+<style></style>
